@@ -7,7 +7,7 @@ public class main {
 
         students.add(new Student("Shakthi", 85));
         students.add(new Student("Arun", 92));
-        students.add(new Student("Dinesh", 85));
+        students.add(new Student("Praveen", 95));
         students.add(new Student("Kiran", 74));
 
         GradeCalculator calculator = new GradeCalculator();
