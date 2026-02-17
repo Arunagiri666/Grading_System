@@ -8,13 +8,6 @@ public class Student {
         this.marks = marks;
     }
 
-    public void setRank(int rank) {
-    this.rank = rank;
-}
-
     public String getName() { return name; }
     public int getMarks() { return marks; }
-    public int getRank() {
-    return rank;
-}
 }

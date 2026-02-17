@@ -14,7 +14,4 @@ public class Student {
 
     public String getName() { return name; }
     public int getMarks() { return marks; }
-    public int getRank() {
-    return rank;
-}
 }
